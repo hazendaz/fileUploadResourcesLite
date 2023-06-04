@@ -1,7 +1,7 @@
 /*
  * fileUploadResourcesLite (https://github.com/hazendaz/fileUploadResourcesLite)
  *
- * Copyright 2009-2022 Hazendaz.
+ * Copyright 2009-2023 Hazendaz.
  *
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of The Apache Software License,
@@ -45,6 +45,7 @@ public class FaceletsResourceResolver extends ResourceResolver {
      *
      * @param path
      *            path to resource
+     *
      * @return URL of resource
      */
     @Override
