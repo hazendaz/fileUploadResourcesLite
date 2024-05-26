@@ -1,7 +1,7 @@
 /*
  * fileUploadResourcesLite (https://github.com/hazendaz/fileUploadResourcesLite)
  *
- * Copyright 2009-2022 Hazendaz.
+ * Copyright 2009-2024 Hazendaz.
  *
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of The Apache Software License,
@@ -13,9 +13,9 @@
  */
 package com.hazendaz.activation;
 
-import static javax.faces.annotation.FacesConfig.Version.JSF_2_3;
+import static jakarta.faces.annotation.FacesConfig.Version.JSF_2_3;
 
-import javax.faces.annotation.FacesConfig;
+import jakarta.faces.annotation.FacesConfig;
 
 @FacesConfig(
         // Activates CDI build-in beans
