@@ -20,6 +20,7 @@ import java.net.URL;
 /**
  * The Class FaceletsResourceResolver.
  */
+// TODO Deprecated, use 'jakarta.faces.application.ResourceHandler' instead
 public class FaceletsResourceResolver extends ResourceResolver {
 
     /** The parent. */
