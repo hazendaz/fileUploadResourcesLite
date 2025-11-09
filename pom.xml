@@ -38,7 +38,7 @@
         <java.version>21</java.version>
         <java.release.version>21</java.release.version>
         <java.test.version>21</java.test.version>
-        <java.test.release.version>1</java.test.release.version>
+        <java.test.release.version>21</java.test.release.version>
     </properties>
 
     <dependencies>
