@@ -1,7 +1,7 @@
 /*
  * fileUploadResourcesLite (https://github.com/hazendaz/fileUploadResourcesLite)
  *
- * Copyright 2009-2022 Hazendaz.
+ * Copyright 2009-2025 Hazendaz.
  *
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of The Apache Software License,
@@ -15,13 +15,13 @@ package com.hazendaz.junk;
 
 import lombok.Data;
 
-// import javax.validation.constraints.Past;
+// import jakarta.validation.constraints.Past;
 
 @Data
 public class InvalidAnnotation {
 
     /**
-     * Set int specifically to test bad annotation. Uncomment @Past in order to cause error
+     * Seat int specifically to test bad annotation. Uncomment @Past in order to cause error
      */
     // @Past
     private int seat;
