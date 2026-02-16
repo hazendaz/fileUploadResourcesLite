@@ -1,17 +1,9 @@
 /*
- * fileUploadResourcesLite (https://github.com/hazendaz/fileUploadResourcesLite)
+ * SPDX-License-Identifier: Apache-2.0
+ * See LICENSE file for details.
  *
- * Copyright 2009-2022 Hazendaz.
- *
- * All rights reserved. This program and the accompanying materials
- * are made available under the terms of The Apache Software License,
- * Version 2.0 which accompanies this distribution, and is available at
- * https://www.apache.org/licenses/LICENSE-2.0.txt
- *
- * Contributors:
- *     Hazendaz (Jeremy Landis).
+ * Copyright 2009-2026 Hazendaz
  */
-
 /*
  * jQuery Hotkeys Plugin Copyright 2010, John Resig Dual licensed under the MIT or GPL Version 2 licenses. Based upon
  * the plugin by Tzury Bar Yochay: http://github.com/tzuryby/hotkeys Original idea by: Binny V A,
