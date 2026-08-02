@@ -5,6 +5,10 @@
  * Copyright 2009-2026 Hazendaz
  */
 $(document).ready(function() {
-    $("#terms").fancybox({ 'type' : 'iframe' });
-    $("#privacy").fancybox({ 'type' : 'iframe' });
+    $("#terms").fancybox({
+        'type' : 'iframe'
+    });
+    $("#privacy").fancybox({
+        'type' : 'iframe'
+    });
 });
